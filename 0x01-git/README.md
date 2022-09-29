@@ -1,1 +1,1 @@
-ALX is rock!
+ALX rocks!
